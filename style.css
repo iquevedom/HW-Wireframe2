@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif, sans-serif;
+    color:#777;
+    background:#777;
+    width: 960px;
+    font-size: 18px;
+  }
+header, nav, footer, aside, section {
+    height: 150px;
+}
+
+Header, Nav, Section, Aside, Footer {
+    background:#ebebeb;
+} 
+
+Article {
+    color:#ebebeb;
+    background:#777;
+}
+
+h1, p {
+    color: #777;
+    background: #ebebeb;
+}
+
+h1, p {
+    text-align: center;
+}
+
+section {
+    width: 495px;
+}
+
+/* section{
+    background: red;
+} */
+
+aside {
+    float: right;
+    width: 455px;
+    padding-top: 25 px;
+/*     background: blue; */
+}
+
